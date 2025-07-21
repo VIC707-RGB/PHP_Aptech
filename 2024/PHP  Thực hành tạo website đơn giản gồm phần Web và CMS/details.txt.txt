@@ -1,0 +1,4 @@
+1: Tạo cấu trúc website lưu trữ thông tin tướng LMHT (Như hướng dẫn trong video)
+2: Tạo giao diện CMS hoạt động với Javascript như hình dưới đây và hướng dẫn trong video để chuẩn bị làm chức năng CMS cho website, sử dụng thư viện `Ckediotr`, `Bootstrap`, `Select2`, Kỹ thuật gắn thêm / xoá DOM, kỹ thuật upload ảnh
+
+Video: https://www.youtube.com/watch?v=8xk47i4r30k&ab_channel=HuyBuiCong

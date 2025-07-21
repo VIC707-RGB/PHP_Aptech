@@ -1,0 +1,10 @@
+.img-full-width{
+    /* width: 100%; */
+    max-width: 100px;
+
+    height: auto;
+}
+.main-list{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}

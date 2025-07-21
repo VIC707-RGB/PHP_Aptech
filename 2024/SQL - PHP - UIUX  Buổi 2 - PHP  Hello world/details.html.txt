@@ -1,0 +1,2 @@
+Tải và làm việc với một website với lệnh echo và khai báo biến trong PHP. Làm càng đẹp càng tốt.
+Video: https://www.youtube.com/watch?v=SbU3AjOStjE&ab_channel=HuyBuiCong

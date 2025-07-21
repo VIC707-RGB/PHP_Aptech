@@ -1,0 +1,8 @@
+.file-contaier{
+    height: 200px;
+    border: 1px dashed black;
+
+}
+.file-input-item{
+    display: none;
+}

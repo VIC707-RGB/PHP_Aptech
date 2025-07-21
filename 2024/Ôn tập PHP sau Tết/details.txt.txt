@@ -1,0 +1,7 @@
+Thực hành viết form đăng nhập và trang bảng dữ liệu Quản lý sinh viên như trong video:
+Lưu ý: 
+ - Đảm bảo phân chia các thư mục để tạo cấu trúc pattern
+ - Sử dụng cookie/session để đăng nhập
+ - Dữ liệu mẫu có thể sử dụng mockaroo/chatGPT
+
+Video: https://www.youtube.com/watch?v=Jnos9jsXHto&ab_channel=HuyBuiCong

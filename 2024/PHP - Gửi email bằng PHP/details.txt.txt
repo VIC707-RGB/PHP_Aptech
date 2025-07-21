@@ -1,0 +1,5 @@
+1: Tạo form đăng ký với Emal và Password
+2: Sau khi đăng ký thành công => Gửi đến email một đường dẫn. nếu click vào đường dẫn này => Xác nhân tài khoản đã được verify
+3: Tào form đăng nhập với emai và password. Lưu ý chỉ tài khoản đã được verify mới có thể đăng nhâp
+
+=> Tạo database, code UI, code Backend để đáp ứng nhu cầu trên

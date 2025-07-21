@@ -1,0 +1,199 @@
+<?php include('../2.data/data-index.php') ?>
+<?php include('../1.controller/controller-menubar.php') ?>
+<?php include('../1.controller/controller-slide.php') ?>
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<!-- Mirrored from matchthemes.com/demohtml/caverta/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Dec 2023 03:43:09 GMT -->
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Caverta - Restaurant Cafe Template</title>
+	<!-- Google Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com/">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&amp;family=Work+Sans:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+	<!-- Bootstrap CSS -->
+	<link rel='stylesheet' id='bootstrap-css' href='css/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<!-- Font Awesome Icons CSS -->
+	<link rel='stylesheet' id='font-awesome' href='css/fontawesome/css/font-awesome.min.css' type='text/css' media='all' />
+	<!-- Owl Carousel -->
+	<link rel='stylesheet' id='owl-carousel' href='js/owl-carousel/owl.carousel.min.css' type='text/css' media='all' />
+	<!-- Main CSS File -->
+	<link rel='stylesheet' id='caverta-style-css' href='css/style.css' type='text/css' media='all' />
+	<!-- favicons -->
+	<link rel="icon" href="images/icons/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" href="images/icons/favicon-192x192.png" sizes="192x192" />
+	<link rel="apple-touch-icon-precomposed" href="images/icons/favicon-180x180.png" />
+</head>
+
+<body class="home">
+	<div class="menu-mask"></div>
+	<!-- MOBILE MENU HOLDER -->
+	<div class="mobile-menu-holder">
+		<div class="modal-menu-container">
+			<div class="exit-mobile">
+				<span class="icon-bar1"></span>
+				<span class="icon-bar2"></span>
+			</div>
+			<!-- MOBILE MENU -->
+			<ul class="menu-mobile">
+				<li class="menu-item menu-item-has-children current-menu-item">
+					<a href="index-2.html">Home</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="index-2.html">Home 1</a></li>
+						<li class="menu-item"><a href="home-2.html">Home 2</a></li>
+						<li class="menu-item"><a href="home-3.html">Home 3</a></li>
+						<li class="menu-item"><a href="home-4.html">Home 4</a></li>
+						<li class="menu-item"><a href="home-video.html">Home Video</a></li>
+						<li class="menu-item"><a href="home-6.html">Home 6</a></li>
+						<li class="menu-item"><a href="home-7.html">Home 7</a></li>
+						<li class="menu-item"><a href="home-8.html">Home 8</a></li>
+						<li class="menu-item"><a href="home-9.html">Home 9</a></li>
+						<li class="menu-item"><a href="home-10.html">Home 10</a></li>
+						<li class="menu-item"><a href="home-11.html">Home 11</a></li>
+					</ul>
+				</li>
+				<li class="menu-item menu-item-has-children">
+					<a href="menu-2-cols.html">Menu</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="menu-1-col.html">Menu 1 Col</a></li>
+						<li class="menu-item"><a href="menu-2-cols.html">Menu 2 Cols</a></li>
+						<li class="menu-item"><a href="menu-3-cols.html">Menu 3 Cols</a></li>
+						<li class="menu-item"><a href="menu-accordion.html">Menu Accordion</a></li>
+						<li class="menu-item"><a href="menu-5.html">Menu 5</a></li>
+						<li class="menu-item"><a href="menu-6.html">Menu 6</a></li>
+						<li class="menu-item"><a href="menu-7.html">Menu 7</a></li>
+						<li class="menu-item"><a href="menu-8.html">Menu 8</a></li>
+						<li class="menu-item"><a href="menu-9.html">Menu 9</a></li>
+						<li class="menu-item"><a href="menu-10.html">Menu 10</a></li>
+						<li class="menu-item"><a href="menu-11.html">Menu 11</a></li>
+						<li class="menu-item"><a href="menu-12.html">Menu 12</a></li>
+					</ul>
+				</li>
+				<li class="menu-item menu-item-has-children">
+					<a href="#">Pages</a>
+					<ul class="sub-menu">
+						<li class="menu-item">
+							<a href="#">Top Headers</a>
+							<ul class="sub-menu">
+								<li class="menu-item"><a href="index-2.html">Header 1</a></li>
+								<li class="menu-item"><a href="header-2.html">Header 2</a></li>
+								<li class="menu-item"><a href="header-3.html">Header 3</a></li>
+								<li class="menu-item"><a href="header-4.html">Header 4</a></li>
+								<li class="menu-item"><a href="header-5.html">Header 5</a></li>
+								<li class="menu-item"><a href="header-6.html">Header 6</a></li>
+								<li class="menu-item"><a href="header-7.html">Header 7</a></li>
+							</ul>
+						</li>
+						<li class="menu-item"><a href="about-me.html">About Me</a></li>
+						<li class="menu-item"><a href="about-me-2.html">About Me 2</a></li>
+						<li class="menu-item"><a href="about-us.html">About Us</a></li>
+						<li class="menu-item"><a href="about-us-2.html">About Us 2</a></li>
+						<li class="menu-item"><a href="pricing.html">Pricing</a></li>
+						<li class="menu-item"><a href="faq.html">FAQ</a></li>
+					</ul>
+				</li>
+				<li class="menu-item"><a href="reservation.html">Reservation</a></li>
+				<li class="menu-item menu-item-has-children">
+					<a href="blog.html">Blog</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="blog-classic.html">Classic</a></li>
+						<li class="menu-item"><a href="blog.html">List</a></li>
+						<li class="menu-item"><a href="blog-grid-2-cols.html">Grid 2 Cols</a></li>
+						<li class="menu-item"><a href="blog-grid-3-cols.html">Grid 3 Cols</a></li>
+						<li class="menu-item"><a href="blog-single-post.html">Single Post</a></li>
+					</ul>
+				</li>
+				<li class="menu-item menu-item-has-children">
+					<a href="team.html">Team</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="team-2-cols.html">Team 2 Cols</a></li>
+						<li class="menu-item"><a href="team-3-cols.html">Team 3 Cols</a></li>
+						<li class="menu-item"><a href="team.html">Team 4 Cols</a></li>
+					</ul>
+				</li>
+				<li class="menu-item menu-item-has-children">
+					<a href="gallery-4-cols.html">Gallery</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="gallery-3-cols.html">3 Cols</a></li>
+						<li class="menu-item"><a href="gallery-4-cols.html">4 Cols</a></li>
+						<li class="menu-item"><a href="gallery-3-cols-full-screen.html">Full Screen 3 Cols</a></li>
+						<li class="menu-item"><a href="gallery-4-cols-full-screen.html">Full Screen 4 Cols</a></li>
+					</ul>
+				</li>
+				<li class="menu-item menu-item-has-children">
+					<a href="contact.html">Contact</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="contact.html">Contact 1</a></li>
+						<li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
+						<li class="menu-item"><a href="contact-3.html">Contact 3</a></li>
+						<li class="menu-item"><a href="contact-4.html">Contact 4</a></li>
+					</ul>
+				</li>
+			</ul>
+			<!-- /MOBILE MENU -->
+		</div>
+		<!-- modal-menu-container -->
+		<div class="menu-contact">
+			<div class="mobile-btn"> <a href="#" class="view-more">Book a Table</a></div>
+			<ul class="mobile-contact">
+				<li class="mobile-address">58 Ralph Ave<br />
+					New York, New York 1111
+				</li>
+				<li class="mobile-phone">+1 800 000 111</li>
+				<li class="mobile-email"><a href="https://matchthemes.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="74171b1a0015170034110c15190418115a171b19">[email&#160;protected]</a></li>
+			</ul>
+			<ul class="social-media">
+				<li><a class="social-facebook" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+				<li><a class="social-twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+				<li><a class="social-tripadvisor" href="#" target="_blank"><i class="fab fa-tripadvisor"></i></a></li>
+				<li><a class="social-instagram" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+				<li><a class="social-pinterest" href="#" target="_blank"><i class="fab fa-pinterest"></i></a></li>
+			</ul>
+		</div>
+		<!-- /menu-contact-->
+	</div>
+	<!-- /MOBILE MENU HOLDER -->
+	<!-- HEADER -->
+	<header id="header-1" class="headerHolder header-1">
+		<div class="nav-button-holder">
+			<button type="button" class="nav-button">
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		<!-- /nav-button-holder-->
+		<!-- LOGO -->
+		<div class="logo logo-1"><a href="index-2.html"><img class="img-fluid" src="images/caverta-logo.png" alt="Caverta" /></a></div>
+		<!-- MENU -->
+		<nav class="nav-holder nav-holder-1">
+			<ul class="menu-nav menu-nav-1">
+				<?php echo render_menu($menus) ?>
+			</ul>
+		</nav>
+		<!-- /MENU -->
+		<div class="social-btn-top1">
+			<ul class="social-media social-media1">
+				<li><a class="social-facebook" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+				<li><a class="social-twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+				<li><a class="social-tripadvisor" href="#" target="_blank"><i class="fab fa-tripadvisor"></i></a></li>
+				<li><a class="social-instagram" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+			</ul>
+			<div class="btn-header btn-header1"> <a href="reservation.html" class="view-more">Book a Table</a>
+			</div>
+		</div>
+		<!-- /social-btn-top1 -->
+	</header>
+
+	<!-- HOME SLIDER -->
+	<div class="slider-container">
+		<div class="owl-carousel owl-theme home-slider">
+			<?php //Neu toi thuc hien vong lap o day, kha nang se lap duoc ra cac slide 
+			?>
+			<?php echo getDanhSachSlideController() ?>
+		
+		</div>
+	</div>
+	<!-- /HOME SLIDER -->
